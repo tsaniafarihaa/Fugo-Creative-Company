@@ -155,6 +155,7 @@ document.querySelectorAll('.card').forEach(card => {
 
 
 
+
   /**
    * Init swiper sliders
    */
